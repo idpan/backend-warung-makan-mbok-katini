@@ -1,0 +1,60 @@
+{
+  "content": {
+    "hero": {
+      "heading": "Warung Makan Mbok Katini",
+      "description": "makanan enak dengan harga merakyat",
+      "image": "hero.jpg"
+    },
+    "main": {
+      "section_1": {
+        "image": "section-1.jpg",
+        "description": "Beragam sajian Bento Box, cocok untuk rapat bisnis atau event khusus.Cita rasa istimewa dan tampilan menarik, memberikan pengalaman kuliner yang praktis dan istimewa"
+      },
+      "section_2": {
+        "image": "section-2.jpg",
+        "description": "Nikmati kelezatan tumpeng istimewa kami, perpaduan citarasa autentik dan desain menawan untuk setiap momen istimewa Anda."
+      }
+    }
+  },
+  "contact": {
+    "noHp": "085256652765",
+    "email": "mbokkatini@mail.com",
+    "address": "ciputat",
+    "instagram": "instagram.com",
+    "gofood_account": "gojek.com"
+  },
+  "menu": {
+    "alacart": [
+      {
+        "name": "name alacart menu",
+        "image": "menu-alacart.jpg",
+        "description": "description menu alacart"
+      },
+      {
+        "name": "name alacart menu",
+
+        "image": "menu-alacart.jpg",
+        "description": "description menu alacart"
+      },
+      {
+        "name": "name alacart menu",
+        "image": "menu-alacart.jpg",
+        "description": "description menu alacart"
+      }
+    ],
+    "tumpeng": [
+      {
+        "name": "name tumpeng menu",
+        "image": "menu-tumpeng.jpg",
+        "description": "description menu tumpeng"
+      }
+    ],
+    "bento": [
+      {
+        "name": "name bento menu",
+        "image": "menu-bento.jpg",
+        "description": "description menu bento"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+PUBLIC WEBSITE
+--Home
+GET /home
+GET /contact
+
+--Menu
+GET /menu
